@@ -8,4 +8,13 @@ Console.WriteLine("ASSDF");
 
 
 Console.WriteLine("My name is Hayley");
+<<<<<<< Updated upstream
 ConsoleColor.DarkBlue
+=======
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+=======
+=======
+Console.WriteLine("I need coffee");
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
