@@ -8,7 +8,11 @@ Console.WriteLine("ASSDF");
 
 
 Console.WriteLine("My name is Hayley");
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 ConsoleColor.DarkBlue
 >>>>>>> 777fb0da483cbb763e903fbc5398972b6517a289
+=======
+Console.WriteLine("I need coffee");
+>>>>>>> Stashed changes
