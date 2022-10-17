@@ -8,3 +8,7 @@ Console.WriteLine("ASSDF");
 
 
 Console.WriteLine("My name is Hayley");
+<<<<<<< HEAD
+=======
+ConsoleColor.DarkBlue
+>>>>>>> 777fb0da483cbb763e903fbc5398972b6517a289
