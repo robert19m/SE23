@@ -2,4 +2,3 @@
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine("My name is Mark Roberts!");
-Console.Write("My name is Hayley!");
